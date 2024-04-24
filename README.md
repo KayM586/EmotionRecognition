@@ -5,6 +5,8 @@ Wednesday, May 1: Oral Presentations
 
 Project Proposal: https://docs.google.com/document/d/1mwjoqHjGSfGpPFeDKlx_5R5FV-b-MsJGNITCk-EO7X0/edit?usp=sharing
 
-Blog Post: https://docs.google.com/document/d/1qs1-4M6Z_qwPkaZS22YVuBGzeDEEcMvKA4trTS4zrzs/edit?usp=sharing
+Blog Post: 
+
+Code Repo: https://github.com/KayM586/EmotionRecognition/tree/main 
 
 Oral Presentation:
